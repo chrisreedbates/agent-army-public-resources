@@ -14,6 +14,9 @@ because it solved a real problem.
   generated copy (French and English). Banned vocabulary, banned structures,
   a 12-point self-check the LLM runs before output. Use this in any pipeline
   or agent that emits human-readable text.
+- **[atlas/](atlas/)** — an open-source strategy consultant agent: terminal
+  chat, persistent engagement memory, research workflows, and a reusable
+  consulting operating model that Codex or Claude Code can adopt directly.
 
 More to come as I extract reusable pieces from the buildout.
 
